@@ -40,4 +40,4 @@ Manage system with /blooddiving
 
 ---
 
-**Developed by Blood Development Team** ❤️</content>
+**Developed by Decoblood** ❤️</content>
